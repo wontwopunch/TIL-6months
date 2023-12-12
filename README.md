@@ -3,17 +3,17 @@
 습득력이 얼마나 될지 정확히 알 수 없어서 ‘데이터 엔지니어 로드맵’이라고 검색하면 나오는 모든 글에서 공통적으로 언급하는 것부터 공부하기로 결정
 
 ### 로드맵
-1. [Python](https://www.notion.so/Python-354d5b6be1ec465ea382ac72717d4865?pvs=21)
-2. [SQL](https://www.notion.so/SQL-b164175e4339478b8dce98fb53c26b39?pvs=21)
-3. [Linux](https://www.notion.so/Linux-ed26ebf42fd54d34b38b2af0949c962b?pvs=21)
-4. [Hadoop](https://www.notion.so/Hadoop-6d060dd74bf24a75bb767e3864238823?pvs=21)
-5. [Spark](https://www.notion.so/Spark-b503731e881b4efbbf097f821cac6880?pvs=21)
-6. [Kafka](https://www.notion.so/Kafka-8a1c6d65bd0d41a3a35c0188e2321248?pvs=21)
-7. [DWH](https://www.notion.so/DWH-156872306f694246b00ea696c54c901a?pvs=21)
-8. [Airflow](https://www.notion.so/Airflow-e094ad08742244a0beee5400f68fcc26?pvs=21)
-9. [AWS](https://www.notion.so/AWS-ab4d5b9d5d9c46d696d4e95705e6dbe1?pvs=21)
-10. [Docker](https://www.notion.so/Docker-d7b492623a2f46c6904e1d324698f6fd?pvs=21)
-11. [CS](https://www.notion.so/CS-bfd8d39c0c7a433580df8eafdf2499a9?pvs=21)
+1. [Python](https://jiwontwopunch.notion.site/Python-354d5b6be1ec465ea382ac72717d4865?pvs=4)
+2. [SQL](https://jiwontwopunch.notion.site/SQL-b164175e4339478b8dce98fb53c26b39?pvs=4)
+3. [Linux](https://jiwontwopunch.notion.site/Linux-ed26ebf42fd54d34b38b2af0949c962b?pvs=4)
+4. [Hadoop](https://jiwontwopunch.notion.site/Hadoop-6d060dd74bf24a75bb767e3864238823?pvs=4)
+5. [Spark](https://jiwontwopunch.notion.site/Spark-b503731e881b4efbbf097f821cac6880?pvs=4)
+6. [Kafka](https://jiwontwopunch.notion.site/Kafka-8a1c6d65bd0d41a3a35c0188e2321248?pvs=4)
+7. [DWH](https://jiwontwopunch.notion.site/DWH-156872306f694246b00ea696c54c901a?pvs=4)
+8. [Airflow](https://jiwontwopunch.notion.site/Airflow-e094ad08742244a0beee5400f68fcc26?pvs=4)
+9. [AWS](https://jiwontwopunch.notion.site/AWS-ab4d5b9d5d9c46d696d4e95705e6dbe1?pvs=4)
+10. [Docker](https://jiwontwopunch.notion.site/Docker-d7b492623a2f46c6904e1d324698f6fd?pvs=4)
+11. [CS](https://jiwontwopunch.notion.site/CS-bfd8d39c0c7a433580df8eafdf2499a9?pvs=4)
 
 - [ ]  ELK
 - [ ]  DB와 Data에 대한 깊은 이해도
